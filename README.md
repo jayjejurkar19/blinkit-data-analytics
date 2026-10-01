@@ -147,13 +147,13 @@ The Power BI dashboard provides an interactive view of key business metrics and 
 blinkit-data-analytics/
 │
 ├── data/
-│   └── dataset.xlsx
-│
-├── sql/
-│   └── analysis.sql
+│   └── dataset.csv
 │
 ├── excel/
-│   └── analysis.xlsx
+│   └──data cleaning formatting
+│
+├── sql/
+│   └── blinkit_eda.sql
 │
 ├── powerbi/
 │   └── blinkit_dashboard.pbix
